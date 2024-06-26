@@ -1,0 +1,14 @@
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\bin\Debug\net8.0\BeautyApp.Entity.deps.json
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\bin\Debug\net8.0\BeautyApp.Entity.runtimeconfig.json
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\bin\Debug\net8.0\BeautyApp.Entity.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\bin\Debug\net8.0\BeautyApp.Entity.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\refint\BeautyApp.Entity.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\BeautyApp.Entity.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Entity\obj\Debug\net8.0\ref\BeautyApp.Entity.dll

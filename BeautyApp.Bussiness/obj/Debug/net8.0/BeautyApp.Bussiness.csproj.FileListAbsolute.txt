@@ -1,0 +1,17 @@
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.Bussiness.deps.json
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.Bussiness.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.Bussiness.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.DataAccess.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.Entity.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.DataAccess.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\bin\Debug\net8.0\BeautyApp.Entity.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyAp.65936F94.Up2Date
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\refint\BeautyApp.Bussiness.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\BeautyApp.Bussiness.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.Bussiness\obj\Debug\net8.0\ref\BeautyApp.Bussiness.dll

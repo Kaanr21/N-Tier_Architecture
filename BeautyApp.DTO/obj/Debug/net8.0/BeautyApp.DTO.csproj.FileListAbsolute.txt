@@ -1,0 +1,11 @@
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\bin\Debug\net8.0\BeautyApp.DTO.deps.json
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\bin\Debug\net8.0\BeautyApp.DTO.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\bin\Debug\net8.0\BeautyApp.DTO.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\refint\BeautyApp.DTO.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\BeautyApp.DTO.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DTO\obj\Debug\net8.0\ref\BeautyApp.DTO.dll

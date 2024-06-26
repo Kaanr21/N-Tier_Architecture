@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyApp.API", "BeautyApp.API\BeautyApp.API.csproj", "{5B7006EE-B7C1-4637-A0B3-3691F4FE0E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyApp.Entity", "BeautyApp.Entity\BeautyApp.Entity.csproj", "{D44B1339-0531-45A6-B38E-6097BFF6AC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyApp.DTO", "BeautyApp.DTO\BeautyApp.DTO.csproj", "{E87D8BAE-1F69-4CCD-9B26-2A837748DEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyApp.DataAccess", "BeautyApp.DataAccess\BeautyApp.DataAccess.csproj", "{A7261CA6-8533-4C9A-949C-EDCD9D5A57BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyApp.Bussiness", "BeautyApp.Bussiness\BeautyApp.Bussiness.csproj", "{8B83624C-5578-41EF-9F88-5B7004F68200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7006EE-B7C1-4637-A0B3-3691F4FE0E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7006EE-B7C1-4637-A0B3-3691F4FE0E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7006EE-B7C1-4637-A0B3-3691F4FE0E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7006EE-B7C1-4637-A0B3-3691F4FE0E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44B1339-0531-45A6-B38E-6097BFF6AC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B1339-0531-45A6-B38E-6097BFF6AC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B1339-0531-45A6-B38E-6097BFF6AC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B1339-0531-45A6-B38E-6097BFF6AC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87D8BAE-1F69-4CCD-9B26-2A837748DEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87D8BAE-1F69-4CCD-9B26-2A837748DEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87D8BAE-1F69-4CCD-9B26-2A837748DEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87D8BAE-1F69-4CCD-9B26-2A837748DEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7261CA6-8533-4C9A-949C-EDCD9D5A57BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7261CA6-8533-4C9A-949C-EDCD9D5A57BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7261CA6-8533-4C9A-949C-EDCD9D5A57BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7261CA6-8533-4C9A-949C-EDCD9D5A57BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B83624C-5578-41EF-9F88-5B7004F68200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B83624C-5578-41EF-9F88-5B7004F68200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B83624C-5578-41EF-9F88-5B7004F68200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B83624C-5578-41EF-9F88-5B7004F68200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADBA548D-F8DE-44EB-9E55-4AE93BA5C88A}
+	EndGlobalSection
+EndGlobal

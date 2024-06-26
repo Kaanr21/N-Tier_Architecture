@@ -1,0 +1,15 @@
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\bin\Debug\net8.0\BeautyApp.DataAccess.deps.json
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\bin\Debug\net8.0\BeautyApp.DataAccess.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\bin\Debug\net8.0\BeautyApp.DataAccess.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\bin\Debug\net8.0\BeautyApp.Entity.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\bin\Debug\net8.0\BeautyApp.Entity.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyAp.0668FB3B.Up2Date
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\refint\BeautyApp.DataAccess.dll
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\BeautyApp.DataAccess.pdb
+C:\Users\Kaan\Desktop\BeautyApp\BeautyApp\BeautyApp.DataAccess\obj\Debug\net8.0\ref\BeautyApp.DataAccess.dll
